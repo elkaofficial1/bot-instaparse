@@ -1,0 +1,208 @@
+{
+  "data": {
+    "highlights": {
+      "edges": [
+        {
+          "node": {
+            "id": "highlight:18102992972251330",
+            "title": "Бьюти",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra3-1.cdninstagram.com/v/t51.71878-15/789523702_1070186549276735_3184261520028117970_n.jpg?stp=c0.247.640.640a_dst-jpegr_e15_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IlNUT1JZLnhwaWRzLjY0MC5oZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ZZevWw5JBLgQ7kNvwHaGiHo&_nc_oc=AdplluuILEO66uf0x88748EquLuMor16i2uAFnrRxfmFdDZc_I_6BC6qaI3zDDyXWB0&_nc_zt=23&se=-1&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=x_-18SprYnjUcg8Fp6xGzw&_nc_ss=7baaf&oh=00_AQRxjryKZq5tfRLwtVXnsQ3GeBchnqaVr8jeSHU5342t0w&oe=6AF7DAD1"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:18611541850022470",
+            "title": "И снова…",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra3-1.cdninstagram.com/v/t51.71878-15/784693928_1644924273872920_8359006060741986095_n.jpg?stp=c0.247.640.640a_dst-jpg_e15_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IlNUT1JZLnhwaWRzLjY0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=YZBqPESwdTQQ7kNvwF1T7jw&_nc_oc=Adp8neL1A4Ii7fFkbu2uqMdUucqIBzF1mEAX3m6zn7ehZTxyog2aUTmp_h_TK95MqhI&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=x_-18SprYnjUcg8Fp6xGzw&_nc_ss=7baaf&oh=00_AQT6S8BbodJK_U6WSLiDsSXjf3SgHMKyW_dXthA0g8lBdA&oe=6AF7E364"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:18124473739696024",
+            "title": "Ремонт",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/761677581_18601645123011342_2258556174720703142_n.jpg?stp=c0.469.1206.1206a_dst-jpg_e35_s150x150_tt6&_nc_cat=101&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6Ij8ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HZAsS9I1SacQ7kNvwFRQS5_&_nc_oc=Adp2gB9EHD3Eoq8tJx-zCXjFg-yRdwvu5Tet3opr8PK-xerJZEg7f8J0U3NQ8hycZYw&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=x_-18SprYnjUcg8Fp6xGzw&_nc_ss=7baaf&oh=00_AQQAPK_3Z5L2P70XWbuqAH2iUp8IbkOO-I19BlHA75wgkg&oe=6AF7FF10"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:18027956288241526",
+            "title": "НЕЙРО отзывы",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra5-1.cdninstagram.com/v/t51.2885-15/469518911_587952463750236_623623085825646202_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=acbce5&_nc_ohc=BCNHU_NC2Y4Q7kNvwHGT-Kh&_nc_oc=AdoZX_MbMlBKHEll3L__BPN94V9GZb3CH2UQYKweE6y_cB_CrOK-18Lfv_jeKT4gfaM&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ss=7baaf&oh=00_AQRKPcEwGcYzJpoL1NAT4CikGoHK2cNFKUltJd0wEvwSLg&oe=6AF7E336"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:18009086630288972",
+            "title": "Трансформации",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/443836770_18430398904011342_5864098192107003045_n.jpg?stp=c0.448.1152.1152a_dst-jpg_e35_s150x150_tt6&_nc_cat=107&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6Ij8ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x5eg6aeSG-AQ7kNvwE8UqxQ&_nc_oc=AdoR5ZSih-9jraytLxycouIqaa6mKaAD4LGJN_-j7vqf2l3rwi90z7jTZW2aJGesbX4&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=x_-18SprYnjUcg8Fp6xGzw&_nc_ss=7baaf&oh=00_AQT8vDa0YUVsALDtXaUhwLTmYC5ssDZgaq8168R8ZRMGqg&oe=6AF7EA6C"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:18043711807850831",
+            "title": "Клиенты говорят",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra5-1.cdninstagram.com/v/t51.2885-15/448877117_1033040915141392_1197878372863173636_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=acbce5&_nc_ohc=zvSdZfMu8wkQ7kNvwEEansW&_nc_oc=AdrPIVvzZlR0CZ9fK7TCsZGg05tEtET6-dlRzhutHD6wxtxhFtxB6Qtg_gyrgEUGPhc&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ss=7baaf&oh=00_AQTFRTKphPgNMXy107wDkQLc9XeX_sRvMf8CkrbVDhYG7A&oe=6AF7CF63"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:17883282690000021",
+            "title": "Новая Дана",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra3-1.cdninstagram.com/v/t39.30808-6/447296281_18432322240011342_3935282522009071857_n.jpg?stp=c148.280.897.897a_dst-jpg_e35_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6Ij8ueHBpZHMuMTE1Mi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=71JWE_EX7DYQ7kNvwGB2_MZ&_nc_oc=AdpQ87CxEWyCVSnfIazETC-Dmq1tMpuLNNj4-PFBptFt_v9SajEPfAZGaE1ntVqBSGI&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=x_-18SprYnjUcg8Fp6xGzw&_nc_ss=7baaf&oh=00_AQSu0Yz5MrP80tKEEUoCegnOiZaqxDsHjBgfWB3SgKSzzg&oe=6AF7DF33"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:18036494131708683",
+            "title": "Я танцую 💃",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra5-1.cdninstagram.com/v/t51.2885-15/420152702_319278997780041_4150927312036962970_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=109&ccb=7-5&_nc_sid=acbce5&_nc_ohc=MEEcy9C7F1wQ7kNvwFQhZLF&_nc_oc=AdoFvDYxGh_K6orVc4mXhVpDsRxvTSmkYE16KrM-av1OR47gqlLSDlFJUc0BSrzWUG8&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ss=7baaf&oh=00_AQTdboFppyLb8kUF7zSR-_2vqnxQJfMZgxABqm2BJ-6Msg&oe=6AF7CE8C"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:18003012464259909",
+            "title": "Юмор",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra5-1.cdninstagram.com/v/t51.2885-15/420290640_761039509219331_2859841838276672300_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ccb=7-5&_nc_sid=acbce5&_nc_ohc=Lbfqllp5oh8Q7kNvwFHmF-V&_nc_oc=Adp8g0xPGrcu_eY2n2UIVfJzumSsaYdCE-TeH-sQcLaU_N_cO5tzEBSDA8nlYFgOtPk&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ss=7baaf&oh=00_AQTfyxHeD6tjtCbgDkUEVO_9tKntnjkqO_Ouyprj2FF8Hw&oe=6AF7FC54"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:17923853642697020",
+            "title": "Не детское",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra5-1.cdninstagram.com/v/t51.2885-15/391222736_331074549468008_5897317271620299731_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ccb=7-5&_nc_sid=acbce5&_nc_ohc=kyAgqBQKcnMQ7kNvwGMr1nX&_nc_oc=AdpHsBMmO5VTjqurMBN717EtlEq0te1YmQhWLXEXZAEi-i5OOfjZ96WfgHo_CwTN42E&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_ss=7baaf&oh=00_AQS332HutCuHG-hzvmADnMMm5qsIHirgFrNVDlVJ1lvVNw&oe=6AF7F036"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        },
+        {
+          "node": {
+            "id": "highlight:17943800978662158",
+            "title": "Мысли вслух",
+            "cover_media": {
+              "cropped_image_version": {
+                "url": "https://scontent-fra3-2.cdninstagram.com/v/t51.2885-15/420178226_659962979440069_3011013190481480786_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=104&ccb=7-5&_nc_sid=acbce5&_nc_ohc=hJu7tnjB4f0Q7kNvwEpXaBe&_nc_oc=AdqmGXp466WyMbcTQdW-8bLcSWAGEKr78P-VzeHL1DlhGqD2tPFr6UZYENhoElipCy8&_nc_zt=23&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_ss=7baaf&oh=00_AQQ99E9bBtsPSgANAxlJRlfEAln92XI1S-jkINITy6v7Zw&oe=6AF7D5E9"
+              }
+            },
+            "user": {
+              "username": "dana_sorokan",
+              "id": "1310347341"
+            },
+            "__typename": "XDTReelDict"
+          },
+          "cursor": ""
+        }
+      ],
+      "page_info": {
+        "end_cursor": null,
+        "has_next_page": false,
+        "has_previous_page": false,
+        "start_cursor": null
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249967129,
+      "time_at_flush_ms": 1794249967276
+    },
+    "is_final": true
+  }
+}

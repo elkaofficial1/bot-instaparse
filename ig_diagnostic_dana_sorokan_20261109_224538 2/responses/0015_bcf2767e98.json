@@ -1,0 +1,15 @@
+{
+  "data": {
+    "xig_user_by_igid_v2": {
+      "id": "17841400340250474",
+      "school_partner": null
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249947972,
+      "time_at_flush_ms": 1794249947989
+    },
+    "is_final": true
+  }
+}

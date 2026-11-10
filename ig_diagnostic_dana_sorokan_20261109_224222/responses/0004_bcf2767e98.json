@@ -1,0 +1,18 @@
+{
+  "data": {
+    "experiments": [
+      {
+        "id": "ig_desktop_dynamic_blocking_dialogs_launch",
+        "param": null,
+        "value": "true"
+      }
+    ]
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249750598,
+      "time_at_flush_ms": 1794249750616
+    },
+    "is_final": true
+  }
+}

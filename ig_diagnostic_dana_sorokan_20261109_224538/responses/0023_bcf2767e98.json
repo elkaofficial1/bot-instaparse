@@ -1,0 +1,31 @@
+{
+  "data": {
+    "ig_quick_promotion_batch_fetch_root": [
+      {
+        "surface_nux_id": "INSTAGRAM_WEB_MEGAPHONE",
+        "eligible_promotions": {
+          "edges": []
+        }
+      },
+      {
+        "surface_nux_id": "INSTAGRAM_FOR_WEB_INTERSTITIAL_QP",
+        "eligible_promotions": {
+          "edges": []
+        }
+      },
+      {
+        "surface_nux_id": "INSTAGRAM_FOR_WEB_TOOLTIP_QP",
+        "eligible_promotions": {
+          "edges": []
+        }
+      }
+    ]
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249948306,
+      "time_at_flush_ms": 1794249948344
+    },
+    "is_final": true
+  }
+}

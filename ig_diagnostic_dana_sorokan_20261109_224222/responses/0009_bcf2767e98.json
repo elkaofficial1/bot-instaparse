@@ -1,0 +1,12 @@
+{
+  "errors": [
+    {
+      "message": "Unauthorized logged out query.",
+      "severity": "CRITICAL",
+      "code": 1675002
+    }
+  ],
+  "extensions": {
+    "is_final": true
+  }
+}

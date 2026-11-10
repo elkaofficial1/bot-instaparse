@@ -1,0 +1,21 @@
+{
+  "data": {
+    "get_slide_mailbox_for_iris_subscription": {
+      "threads_by_folder": {
+        "edges": [],
+        "page_info": {
+          "end_cursor": null,
+          "has_next_page": false
+        }
+      },
+      "id": "18119943352786649"
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249948025,
+      "time_at_flush_ms": 1794249948129
+    },
+    "is_final": true
+  }
+}

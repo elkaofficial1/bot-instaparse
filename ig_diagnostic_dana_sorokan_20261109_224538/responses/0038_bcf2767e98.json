@@ -1,0 +1,14 @@
+{
+  "data": {
+    "xdt_get_inbox_tray_items": {
+      "inbox_tray_items": []
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249967127,
+      "time_at_flush_ms": 1794249967147
+    },
+    "is_final": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "xdt_injected_story_units": {
+      "ad_media_items": [],
+      "ads_pool_threshold_for_next_request": 0,
+      "earliest_request_position": null
+    }
+  },
+  "extensions": {
+    "is_final": true,
+    "server_metadata": {
+      "request_start_time_ms": 1794249941878,
+      "time_at_flush_ms": 1794249942470
+    }
+  },
+  "status": "ok"
+}

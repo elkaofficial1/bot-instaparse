@@ -1,0 +1,13 @@
+[
+  {
+    "type": "response",
+    "number": 1,
+    "status": 200,
+    "url": "https://www.instagram.com/data/manifest.json",
+    "path": "/data/manifest.json",
+    "content_type": "application/json",
+    "bytes": 1112,
+    "file": "responses/0001_deffed2577.json",
+    "json": true
+  }
+]

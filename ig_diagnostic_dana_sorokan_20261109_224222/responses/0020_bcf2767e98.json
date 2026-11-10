@@ -1,0 +1,111 @@
+{
+  "data": {
+    "node": {
+      "__typename": "User",
+      "polaris_clips_connection": {
+        "edges": [
+          {
+            "node": {
+              "__typename": "XIGPolarisVideoMedia",
+              "__isXIGPolarisMedia": "XIGPolarisVideoMedia",
+              "id": "POLARIS_4006176899014502665",
+              "pk": "4006176899014502665",
+              "user": {
+                "pk": "1310347341",
+                "id": "17841400340250474"
+              },
+              "product_type": "clips",
+              "like_and_view_counts_disabled": false,
+              "comment_count": 8,
+              "like_count": 53,
+              "play_count": 3313,
+              "clips_tab_pinned_user_ids": [],
+              "code": "DeYzKn9IqkJ",
+              "seo_canonical_url": null,
+              "display_uri": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/847729761_18624828811011342_3689750529295731136_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ta1vdTya2q8Q7kNvwHpnKne&_nc_oc=Adr-Yv52I8EUdPrcs7EhfF_m-QGJ-dYDFDtFyapLOUUQX5DpTG_VGngMjWM7B8dcPgo&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=T1IHUnNPRHAoaswTcp37dQ&_nc_ss=7ba8c&oh=00_AQS9cHcyRqHSjm09gvRRNCJjL0jdpxVQFVo3WcUwVM6nyw&oe=6AF7EF88"
+            },
+            "cursor": "AQHTNjv8YYAEYHeuzF6N0r9BChXUeEWmwLl2Y23XMQsqKptXVe23snpmrCFeDV34F0ZTsXc_1YtwJviDbCkXVeZJ4A"
+          },
+          {
+            "node": {
+              "__typename": "XIGPolarisVideoMedia",
+              "__isXIGPolarisMedia": "XIGPolarisVideoMedia",
+              "id": "POLARIS_4005634141539468539",
+              "pk": "4005634141539468539",
+              "user": {
+                "pk": "1310347341",
+                "id": "17841400340250474"
+              },
+              "product_type": "clips",
+              "like_and_view_counts_disabled": false,
+              "comment_count": 1,
+              "like_count": 32,
+              "play_count": 1506,
+              "clips_tab_pinned_user_ids": [],
+              "code": "DeW3wdqowT7",
+              "seo_canonical_url": null,
+              "display_uri": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-15/847269912_18624555877011342_8884991366371511152_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=t3H8-OLg0TMQ7kNvwFG5CL-&_nc_oc=AdoFNTCfAFWmaDtCOQWoYFjqfH-bevoSLcAieHqTHhPrVLspLqdVO0H743zCEjcejB8&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=T1IHUnNPRHAoaswTcp37dQ&_nc_ss=7ba8c&oh=00_AQRn3GpH-JP6CnUr_Lvzzk_Yi0I8k2alSyNasK4hUiFuqw&oe=6AF7CD7A"
+            },
+            "cursor": "AQHT8v4UOySvziofRGW_Gj36pjN9loRjr6nkBj6bBYfjK0tjwAg8RqiNUKW1-NfKkQjSq22AmG44eT685I_ZWrsJ6Q"
+          },
+          {
+            "node": {
+              "__typename": "XIGPolarisVideoMedia",
+              "__isXIGPolarisMedia": "XIGPolarisVideoMedia",
+              "id": "POLARIS_4005551406267276275",
+              "pk": "4005551406267276275",
+              "user": {
+                "pk": "1310347341",
+                "id": "17841400340250474"
+              },
+              "product_type": "clips",
+              "like_and_view_counts_disabled": false,
+              "comment_count": 0,
+              "like_count": 19,
+              "play_count": 2059,
+              "clips_tab_pinned_user_ids": [],
+              "code": "DeWk8gcIJvz",
+              "seo_canonical_url": null,
+              "display_uri": "https://scontent-fra5-1.cdninstagram.com/v/t51.82787-15/843117213_18624505927011342_8184353754336344881_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DlFj2jlRPSoQ7kNvwFKMrBW&_nc_oc=Adqsxsa8sHtMscmjx2SxeUunWrgine0iB-Xal1MJaZlgMjNjKrqkmd1puStnxGO3y98&_nc_zt=23&_nc_ht=scontent-fra5-1.cdninstagram.com&_nc_gid=T1IHUnNPRHAoaswTcp37dQ&_nc_ss=7ba8c&oh=00_AQTBOowoAJ7YOPMQjzhDJ0m-0EquOAReqmrKlMzshbpOlA&oe=6AF7CCA4"
+            },
+            "cursor": "AQHTYBI9RKVUMj4vyaC8Dg7hfp5CcLqMHM8YuWKjYhPT0XG_DomAUepSKK_hVtEFXj8It4Icf0ycpk3vZV2jbZProg"
+          },
+          {
+            "node": {
+              "__typename": "XIGPolarisVideoMedia",
+              "__isXIGPolarisMedia": "XIGPolarisVideoMedia",
+              "id": "POLARIS_4005417973771681728",
+              "pk": "4005417973771681728",
+              "user": {
+                "pk": "1310347341",
+                "id": "17841400340250474"
+              },
+              "product_type": "clips",
+              "like_and_view_counts_disabled": false,
+              "comment_count": 9,
+              "like_count": 153,
+              "play_count": 7098,
+              "clips_tab_pinned_user_ids": [],
+              "code": "DeWGmzvoD_A",
+              "seo_canonical_url": null,
+              "display_uri": "https://scontent-fra3-1.cdninstagram.com/v/t15.5256-10/846053463_1587786149496587_4392572689687692352_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DPEj3tJpnkMQ7kNvwFTzefH&_nc_oc=AdqcIxIHL3W9jH070eJkkeYEGn06-r23-TQkvBqE7Agn76MKNvT5DAq_BaDTSkTS9I4&_nc_zt=23&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=T1IHUnNPRHAoaswTcp37dQ&_nc_ss=7ba8c&oh=00_AQTPprI2wZ81pcG60ukE-zfukYKc291ywykoyMjKWmXjpg&oe=6AF7F686"
+            },
+            "cursor": "AQHT1-6Orsdv8nVhf_NrBXKi6DrRBTtrJ9Dl26Uyt91h4rBZ8Q6g2zUefYJNWp7ppAc78wWmZZzfROycazNpmXka8g"
+          }
+        ],
+        "page_info": {
+          "end_cursor": "AQHTIf8_lrAG9Sc0m39GWjzt8tBwBvMJ6x9txaekqVs7DK300C7TSkudkdGG-JTJAa9AJ7DnDN3xwDbVWVlu2H4ZaA",
+          "has_next_page": true
+        }
+      },
+      "id": "17841400340250474"
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249775269,
+      "time_at_flush_ms": 1794249775357
+    },
+    "is_final": true
+  }
+}

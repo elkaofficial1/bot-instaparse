@@ -1,0 +1,144 @@
+{
+  "data": {
+    "user": {
+      "pk": "1310347341",
+      "aigm_account_label_info": {
+        "is_enabled": false,
+        "attribution_label_text": null,
+        "is_auto_detected": false,
+        "is_manually_enabled": false
+      },
+      "friendship_status": {
+        "following": false,
+        "blocking": false,
+        "is_feed_favorite": false,
+        "outgoing_request": false,
+        "followed_by": false,
+        "incoming_request": false,
+        "is_restricted": false,
+        "is_bestie": false,
+        "muting": false,
+        "is_muting_reel": false
+      },
+      "gating": null,
+      "fbid_v2": "17841400340250474",
+      "is_memorialized": false,
+      "is_private": false,
+      "has_story_archive": null,
+      "is_coppa_enforced": null,
+      "supervision_info": null,
+      "is_regulated_c18": false,
+      "regulated_news_in_locations": [],
+      "bio_links": [
+        {
+          "image_url": "",
+          "is_pinned": false,
+          "link_id": "17875598910543323",
+          "link_type": "external",
+          "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fdikidi.ru%2F1908966%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacVXgZr_6u4cOvDzA7dx-6AghqBlSh6Dx9l7L71kaQZZUAl4k-3nqc8CeveTQ_aem_E7ZUd_lzFPdan0HBuWPZgg&e=AUDIq6IlDRpL-loiSNaXMTehd0aeuqReQJXNoq8ob5ee5nknjFLissZsDcMRup53mJvgFdcALKgkCnpcYvDhzp3jDvNvgVUxySTA2yVC3Kg46FlzDqovItwvQvkfPil796SgxCOTjogF",
+          "media_accent_color_hex": "",
+          "media_type": "none",
+          "title": "Онлайн-запись",
+          "url": "https://dikidi.ru/1908966",
+          "creation_source": "NONE"
+        },
+        {
+          "image_url": "",
+          "is_pinned": false,
+          "link_id": "18437053726124745",
+          "link_type": "external",
+          "lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fvk.ru%2Fclub216688196%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacKkDwsW8I9vj5qaEC5xDdjtmASoDUAS-5t-6_Hc6FYQtdE-4AAENHYQ3jx1g_aem_O8va7mowe7paV2fbl09xfw&e=AUAQr-br8TYLql3CQf0KdhHBm20CCLxCggIUAmHUKV8UB9Zu632IkYLgrWBtc8NEI71cKAYM9CqEHgqgpoGiIK-tII6bzKbFVkV7sl-G77iURq1AllHL8AEbRIOEeQy7DvDE4uoQIwFS",
+          "media_accent_color_hex": "",
+          "media_type": "none",
+          "title": "",
+          "url": "https://vk.ru/club216688196",
+          "creation_source": "NONE"
+        }
+      ],
+      "linked_fb_info": null,
+      "meta_verified_benefits_info": {
+        "active_meta_verified_benefits": []
+      },
+      "text_post_app_badge_label": "dana_sorokan",
+      "show_text_post_app_badge": true,
+      "username": "dana_sorokan",
+      "live_broadcast_visibility": null,
+      "live_broadcast_id": null,
+      "profile_pic_url": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-19/708793357_18581420419011342_8527550250277107417_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GA1UPyoOU38TtANCANl2D5DF8Vd2bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oG9ZxPZkOxoQ7kNvwHA8ga5&_nc_oc=AdrqP-AqMW8j0CmZ8_E92XNfLCM-jKk7JBMR1lGsOv4C14FguaTWdx4nCb72lYEQErs&_nc_zt=24&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=-u7LQQ6m20iqXXvafFVuDA&_nc_ss=7baaf&oh=00_AQT3P5glREupBBQOCbNDzBp2INxktwWFk0NoEmxVG7F3hA&oe=6AF7F117",
+      "hd_profile_pic_url_info": {
+        "url": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-19/708793357_18581420419011342_8527550250277107417_n.jpg?_nc_cat=105&ig_cache_key=GA1UPyoOU38TtANCANl2D5DF8Vd2bmNDAQAB0j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oG9ZxPZkOxoQ7kNvwHA8ga5&_nc_oc=AdrqP-AqMW8j0CmZ8_E92XNfLCM-jKk7JBMR1lGsOv4C14FguaTWdx4nCb72lYEQErs&_nc_zt=24&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=-u7LQQ6m20iqXXvafFVuDA&_nc_ss=7baaf&oh=00_AQT3rdOKd1RQGkX8Ac9jTk9-Lcmr-iTbQJW-d7ipWjeReQ&oe=6AF7F117"
+      },
+      "is_unpublished": false,
+      "latest_reel_media": 1794216727,
+      "has_profile_pic": null,
+      "profile_pic_genai_tool_info": [],
+      "biography": "Психолог и бьюти-мастер в г. Саранск. \n10 лет опыта.\nКонсультирую онлайн и очно. \nПомогаю женщинам обрести уверенность. Запишись на «сеанс красоты» 👇🏻",
+      "full_name": "ПСИХОЛОГ•ЭКСПЕРТ ЖЕНСКОЙ КРАСОТЫ",
+      "is_verified": false,
+      "show_account_transparency_details": true,
+      "account_type": 3,
+      "follower_count": 1969,
+      "mutual_followers_count": 0,
+      "profile_context_links_with_user_ids": [],
+      "profile_context_facepile_users": [],
+      "address_street": "",
+      "city_name": "",
+      "is_business": false,
+      "zip": "",
+      "biography_with_entities": {
+        "entities": []
+      },
+      "category": "Личный блог",
+      "should_show_category": true,
+      "is_ring_creator": false,
+      "show_ring_award": false,
+      "ring_creator_metadata": {
+        "profile_background_color": null,
+        "profile_background_secondary_color": null
+      },
+      "account_badges": [],
+      "ai_agent_type": null,
+      "external_lynx_url": "https://l.instagram.com/?u=https%3A%2F%2Fdikidi.ru%2F1908966%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacVXgZr_6u4cOvDzA7dx-6AghqBlSh6Dx9l7L71kaQZZUAl4k-3nqc8CeveTQ_aem_E7ZUd_lzFPdan0HBuWPZgg&e=AUANQ3pkTpsPEfhxHqKd-QCrcrhXgaH4Wsogyh7CfengWaSWzqmdqn5QBNeG9Sxdaszi3FAa3rRKsSaFgPkIXHUkyzbMpXwcWg3DrqwjRdeatcZP1KbesdiYbginiuw2_SNg833XxEOr",
+      "external_url": "https://dikidi.ru/1908966",
+      "pronouns": [],
+      "transparency_label": null,
+      "transparency_product": null,
+      "hide_creator_marketplace_badge": false,
+      "id": "1310347341",
+      "has_chaining": true,
+      "remove_message_entrypoint": false,
+      "is_embeds_disabled": false,
+      "is_cannes": false,
+      "is_professional_account": null,
+      "following_count": 1134,
+      "media_count": 921,
+      "has_restyle_presets": false,
+      "total_clips_count": 1,
+      "has_visible_media_notes": true,
+      "short_drama_creator": null,
+      "has_longform_media": false,
+      "latest_besties_reel_media": 0,
+      "reel_media_seen_timestamp": null
+    },
+    "viewer": {
+      "user": {
+        "pk": "23642234648",
+        "id": "23642234648",
+        "can_see_organic_insights": true,
+        "supervision_info": {
+          "is_guardian_user": false,
+          "is_feta_guardian_user": false,
+          "guardian_hypercard_content": null,
+          "id": "XDTSupervisionInfo:23642234648"
+        }
+      }
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249967126,
+      "time_at_flush_ms": 1794249967221
+    },
+    "is_final": true
+  }
+}

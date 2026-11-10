@@ -1,0 +1,51 @@
+{
+  "data": {
+    "get_paginated_share_sheet_ranked_items": {
+      "ranked_items": [
+        {
+          "__typename": "ShareSheetUser",
+          "is_meta_ai_bot": false,
+          "__isShareSheetItem": "ShareSheetUser",
+          "share_sheet_item_id": "60770100912",
+          "full_name": "МАНИКЮР|НАРАЩИВАНИЕ ВОЛОС ЧЕЛНЫ",
+          "pk": "60770100912",
+          "profile_pic_url": "https://scontent-fra3-2.cdninstagram.com/v/t51.82787-19/589280402_17952695235028913_15371714435578614_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=104&ig_cache_key=GJK0HyOxpz6W4cc-APZ6hSp_nDYAbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=RF2nPpkRTY8Q7kNvwFOKQJv&_nc_oc=AdpwSq0oauZm-LQi_f5yDVrrRXWvLTAzgxS3w7S9dfh0wjbFCqJtx4VF6Z15c8xIt_M&_nc_zt=24&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_gid=kJts7ckfNIOLP1OoHUjBtA&_nc_ss=7baaf&oh=00_AQSgA1TIadhQ2rPGfg0-Fu2t9_INumkwjbAjnSbwcsaEIg&oe=6AF7CE8A",
+          "is_verified": false,
+          "username": "zamzam_nails_nch",
+          "interop_messaging_user_fbid": "17842279839028913"
+        },
+        {
+          "__typename": "ShareSheetUser",
+          "is_meta_ai_bot": false,
+          "__isShareSheetItem": "ShareSheetUser",
+          "share_sheet_item_id": "6851245721",
+          "full_name": "ЮЛИЯ| ПСИХОЛОГ| КОНСУЛЬТАЦИИ | ДЕВИЧНИКИ | ЧЕЛНЫ",
+          "pk": "6851245721",
+          "profile_pic_url": "https://scontent-fra3-1.cdninstagram.com/v/t51.2885-19/431698911_379045811657359_8365455981873280995_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=105&ig_cache_key=GN8zuxmPGvV6vVgBAOM3ubfkERh0bkULAAAB2402400j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43MDYuQzMifQ%3D%3D&_nc_ohc=1xOI-R7L6rgQ7kNvwG5gJBI&_nc_oc=AdqqTCZx_5DQRtHg_3gzt7MtOJICBWFkPdWvKkGOjbLN-fp8mRWE5KBQ_IG8W04puPI&_nc_zt=24&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_ss=7baaf&oh=00_AQTyZoC_w6yZxPvptEdLaiwE_Z-dcZOuywjXlz3E22goAA&oe=6AF7EBAE",
+          "is_verified": false,
+          "username": "yuliya_rys11",
+          "interop_messaging_user_fbid": "105740014159819"
+        },
+        {
+          "__typename": "ShareSheetUser",
+          "is_meta_ai_bot": false,
+          "__isShareSheetItem": "ShareSheetUser",
+          "share_sheet_item_id": "64538565608",
+          "full_name": "РУЗИЛЯ /Авторские украшения/Серьги/Чокер/Ручнаяработа",
+          "pk": "64538565608",
+          "profile_pic_url": "https://scontent-fra3-1.cdninstagram.com/v/t51.82787-19/651485240_17942544258149609_833147862696656004_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=101&ig_cache_key=GDjg1CbprN8gpr4-AIT8aCGR748LbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=669407&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=l2sue-0QEVUQ7kNvwHheK7_&_nc_oc=Adr7ZgVXJlm6HsSSMm82nEJA-mk3S7jmViAnhpWKCfKmn0hBk1WF5gpYc3_W_mMgn24&_nc_zt=24&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_gid=kJts7ckfNIOLP1OoHUjBtA&_nc_ss=7baaf&oh=00_AQSLx-Jk9ZH-22yhOYKQA8xJgktGXMPNzRtZ2Ds7dE-lgA&oe=6AF7CF79",
+          "is_verified": false,
+          "username": "ruzilya_jewelry",
+          "interop_messaging_user_fbid": "17848516437149609"
+        }
+      ]
+    }
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249948027,
+      "time_at_flush_ms": 1794249948078
+    },
+    "is_final": true
+  }
+}

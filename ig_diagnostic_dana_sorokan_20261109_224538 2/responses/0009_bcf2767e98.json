@@ -1,0 +1,19 @@
+{
+  "data": {
+    "ig_quick_promotion_batch_fetch_root": [
+      {
+        "surface_nux_id": "INSTAGRAM_FOR_WEB_LOGIN_INTERSTITIAL_QP",
+        "eligible_promotions": {
+          "edges": []
+        }
+      }
+    ]
+  },
+  "extensions": {
+    "server_metadata": {
+      "request_start_time_ms": 1794249943538,
+      "time_at_flush_ms": 1794249943644
+    },
+    "is_final": true
+  }
+}
