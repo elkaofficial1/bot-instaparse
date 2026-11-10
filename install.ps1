@@ -6,9 +6,33 @@ $repo = "https://github.com/elkaofficial1/bot-instaparse/archive/refs/heads/main
 
 if (-not (Get-Command winget -ErrorAction SilentlyContinue)) { throw "Нужен winget." }
 
-if (-not (Get-Command py -ErrorAction SilentlyContinue)) {
-    winget install --id Python.Python.3.13 --exact --scope user --accept-package-agreements --accept-source-agreements
+
+function Find-Python313 {
+    $paths = @(
+        "$env:LOCALAPPDATA\Programs\Python\Python313\python.exe",
+        "$env:ProgramFiles\Python313\python.exe"
+    )
+    foreach ($path in $paths) {
+        if (Test-Path $path) { return $path }
+    }
+    $key = "HKCU:\Software\Python\PythonCore\3.13\InstallPath"
+    if (Test-Path $key) {
+        $root = (Get-Item $key).GetValue("")
+        if ($root -and (Test-Path (Join-Path $root "python.exe"))) {
+            return (Join-Path $root "python.exe")
+        }
+    }
+    return $null
 }
+
+$basePython = Find-Python313
+if (-not $basePython) {
+    winget install --id Python.Python.3.13 --exact --scope user --accept-package-agreements --accept-source-agreements
+    if ($LASTEXITCODE -ne 0) { throw "Python installation failed." }
+    $basePython = Find-Python313
+}
+if (-not $basePython) { throw "Python 3.13 not found. Restart PowerShell and retry." }
+
 if (Test-Path $dir) { throw "Папка уже существует: $dir" }
 
 New-Item -ItemType Directory -Force $tmp | Out-Null
@@ -20,7 +44,7 @@ try {
     Move-Item $src.FullName $dir
 
     Set-Location $dir
-    py -3.13 -m venv .venv
+    & $basePython -m venv .venv
     $python = "$dir\.venv\Scripts\python.exe"
     & $python -m pip install -r requirements.txt
     if ($LASTEXITCODE -ne 0) { throw "Не удалось установить зависимости." }

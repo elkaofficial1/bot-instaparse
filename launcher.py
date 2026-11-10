@@ -9,6 +9,8 @@ INPUT = ROOT / "xls"
 OUTPUT = ROOT / "results"
 
 def create_shortcut():
+    if sys.platform != "darwin":
+        return
     desktop = Path.home() / "Desktop"
     desktop.mkdir(exist_ok=True)
 
