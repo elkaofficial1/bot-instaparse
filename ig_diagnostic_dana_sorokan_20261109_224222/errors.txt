@@ -1,5 +1,0 @@
-PAGE https://www.instagram.com/dana_sorokan/reels/: Page.screenshot: Target page, context or browser has been closed
-Call log:
-  - taking page screenshot
-  - waiting for fonts to load...
-  - fonts loaded

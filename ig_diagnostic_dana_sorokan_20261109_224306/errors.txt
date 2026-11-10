@@ -1,5 +1,0 @@
-PAGE https://www.instagram.com/dana_sorokan/: Page.goto: net::ERR_ABORTED at https://www.instagram.com/dana_sorokan/
-Call log:
-  - navigating to "https://www.instagram.com/dana_sorokan/", waiting until "domcontentloaded"
-
-PAGE https://www.instagram.com/dana_sorokan/reels/: Page.goto: Target page, context or browser has been closed
