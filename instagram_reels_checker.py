@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import argparse
+import random
 import json
 import re
 import sys
@@ -474,7 +475,7 @@ def main():
                     f"  Проверено: {result['checked']} | "
                     f"{result['status'].upper()}"
                 )
-                time.sleep(1)
+                time.sleep(random.uniform(3.0, 9.0)) 
 
         finally:
             context.close()
